@@ -1,4 +1,4 @@
-# 📘 Basic Calculator & Questionnaire
+# 📘 Basic Calculator
 
 This repository contains two simple web-based projects built using **HTML, CSS, and JavaScript**:
 
@@ -25,3 +25,11 @@ A simple calculator that allows users to perform:
 1. Open `calculator.html` in your browser.  
 2. Click the buttons to input numbers and operations.  
 3. View results instantly.  
+
+
+## 🛠️ Technologies Used
+- **HTML5** – structure of the projects  
+- **CSS3** – styling and layout  
+- **JavaScript (ES6)** – functionality and interactivity  
+
+---
